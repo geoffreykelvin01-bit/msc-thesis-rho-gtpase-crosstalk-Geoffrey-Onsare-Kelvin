@@ -1,5 +1,5 @@
 # Rho GTPase Crosstalk: Reaction-Diffusion Models of Cell Polarisation
-**Masters Thesis Computational Code — Geoffrey Onsare Kelvin**
+**Masters Thesis Computational Code - Geoffrey Onsare Kelvin**
 Department of Mathematics | University of Nairobi
 
 ---
