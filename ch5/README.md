@@ -1,4 +1,4 @@
-# Chapter 5 — Diffusion Analysis (Local Perturbation Analysis)
+# Chapter 5 - Diffusion Analysis (Local Perturbation Analysis)
 
 Scripts for Local Perturbation Analysis (LPA) of the spatial Rac–Rho model: dispersion relations, averaged Jacobian stability analysis, and combined LPA/ODE bifurcation visualisation.
 
