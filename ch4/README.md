@@ -1,4 +1,4 @@
-# Chapter 4 — ODE Bifurcation Analysis
+# Chapter 4 - ODE Bifurcation Analysis
 
 Scripts for the temporal (non-spatial) Rac–Rho ODE model: phase plane analysis and bifurcation diagrams as the parameter **a5** is varied across the three dynamical scenarios (S1 bistable, S2 oscillatory, S3 coexistence).
 
